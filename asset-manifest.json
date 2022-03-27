@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.988f1e3d.chunk.js",
-    "main.js.map": "/static/js/main.988f1e3d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aedb5487.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aedb5487.js.map",
-    "static/js/2.14ba6b61.chunk.js": "/static/js/2.14ba6b61.chunk.js",
-    "static/js/2.14ba6b61.chunk.js.map": "/static/js/2.14ba6b61.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.14ba6b61.chunk.js.LICENSE.txt": "/static/js/2.14ba6b61.chunk.js.LICENSE.txt",
-    "static/media/flower.1877cca0.png": "/static/media/flower.1877cca0.png",
-    "static/media/image1.5d5680fc.jpg": "/static/media/image1.5d5680fc.jpg"
+    "main.js": "/hang-hai-wedding-invitation/static/js/main.2ed7ec26.chunk.js",
+    "main.js.map": "/hang-hai-wedding-invitation/static/js/main.2ed7ec26.chunk.js.map",
+    "runtime-main.js": "/hang-hai-wedding-invitation/static/js/runtime-main.bfc19428.js",
+    "runtime-main.js.map": "/hang-hai-wedding-invitation/static/js/runtime-main.bfc19428.js.map",
+    "static/js/2.1c117312.chunk.js": "/hang-hai-wedding-invitation/static/js/2.1c117312.chunk.js",
+    "static/js/2.1c117312.chunk.js.map": "/hang-hai-wedding-invitation/static/js/2.1c117312.chunk.js.map",
+    "index.html": "/hang-hai-wedding-invitation/index.html",
+    "static/js/2.1c117312.chunk.js.LICENSE.txt": "/hang-hai-wedding-invitation/static/js/2.1c117312.chunk.js.LICENSE.txt",
+    "static/media/flower.1877cca0.png": "/hang-hai-wedding-invitation/static/media/flower.1877cca0.png",
+    "static/media/image1.5d5680fc.jpg": "/hang-hai-wedding-invitation/static/media/image1.5d5680fc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aedb5487.js",
-    "static/js/2.14ba6b61.chunk.js",
-    "static/js/main.988f1e3d.chunk.js"
+    "static/js/runtime-main.bfc19428.js",
+    "static/js/2.1c117312.chunk.js",
+    "static/js/main.2ed7ec26.chunk.js"
   ]
 }
